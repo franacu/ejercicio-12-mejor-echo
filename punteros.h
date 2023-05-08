@@ -1,0 +1,10 @@
+//
+// Created by ELECTROHARD on 08/05/2023.
+//
+
+#ifndef PRACTICANDO_PUNTEROS_PUNTEROS_H
+#define PRACTICANDO_PUNTEROS_PUNTEROS_H
+
+void cambiar(char *cadena);
+
+#endif //PRACTICANDO_PUNTEROS_PUNTEROS_H
